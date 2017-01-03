@@ -6,3 +6,5 @@ k-means clustering aims to partition n observations into k clusters in which eac
 
 When running this project, three arguments need to be provided - K value, path of image for compression and path to store the compressed image.
 
+Resule sample:
+koala.jpg is the orginal image and Koala20 is the image after compression with k equal to 20
